@@ -22,9 +22,7 @@ This ensures that everyone has a chance to learn and lead discussions with their
 
 Participation in the CISO track is limited to vetted individuals who hold an active full-time CSO/CISO position. The event itself will run  under the Chatham House Rule.
 
-```
-Note: For those of you not familiar, Chatham House Rule is defined as follows: “When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”
-```
+**Note**: For those of you not familiar, Chatham House Rule is defined as follows: “When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”
 
 Participants are expected to be highly engaged and contribute to the discussions held during the day in a meaningful way. We reserve the right to ask for a minimal donation (amount to be set per CISO Track event) to a 501(c)3 organization supporting the track. In order to ensure the effectiveness of this track, participation will be restricted to up to 50 individuals.
 
