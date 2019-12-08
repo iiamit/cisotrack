@@ -10,7 +10,7 @@ We plan to hold the second CISO Track during RSA Conference in February 25th, 20
 Applications for participation will be available **here** shortly.
 
 ### BSidesLV 2019
-The CISO track has been created in 2019 and was initiallt run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
+The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
 
 ## Details
 
