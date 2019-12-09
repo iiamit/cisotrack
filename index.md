@@ -7,7 +7,7 @@ The modern security executive needs to handle a complex world of technology, pol
 ### RSA Conference 2020
 We plan to hold the second CISO Track during RSA Conference in February 25th, 2020.
 
-Applications for registration is available here: https://forms.gle/kc1uNB8Y8N7KRkL78. Please note that all fields are mandatory (including agreeing to the track terms, privacy statement, participation through the day, minimal donation, and Chatham House Rule). Note that participation is capped at 50, and we cannot guarantee that all applications will be accepted. As such, registration will be closed once we have secured registration for the track.
+Applications for registration is [available here](https://forms.gle/kc1uNB8Y8N7KRkL78). Please note that all fields are mandatory (including agreeing to the track terms, privacy statement, participation through the day, minimal donation, and Chatham House Rule). Note that participation is capped at 50, and we cannot guarantee that all applications will be accepted. As such, registration will be closed once we have secured registration for the track.
 
 ### BSidesLV 2019
 The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
