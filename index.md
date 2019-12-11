@@ -5,7 +5,7 @@ The modern security executive needs to handle a complex world of technology, pol
 **The CISO Track** aims to provide our participants with a closed-door environment where sharing information and practices around a select number of topics is done properly. This isn’t about some vendor pitch, nor is it about sitting and having someone talk at you for 45 minutes. It is about a discussion between peers, curated by peers, around topics presented briefly (10-15 minutes) by vetted industry practitioners. What’s a vetted industry practitioner? They’re speakers who have agreed not to pitch or sell products, and their presentation has been reviewed and pre-approved by the program committee.
 
 ## RSA Conference 2020
-We plan to hold the second CISO Track during RSA Conference in February 25th, 2020.
+We plan to hold the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from CloudFlare, we will hold the track at their offices during the day.
 
 Applications for registration is [available here](https://forms.gle/kc1uNB8Y8N7KRkL78). Please note that all fields are mandatory (including agreeing to the track terms, privacy statement, participation through the day, minimal donation, and Chatham House Rule). Note that participation is capped at 50, and we cannot guarantee that all applications will be accepted. As such, registration will be closed once we have secured registration for the track.
 
