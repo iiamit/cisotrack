@@ -27,3 +27,4 @@ Vendor participation is limited to presenting the session topic, and vendors wil
 
 ### BSidesLV 2019
 The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
+The proceedings for the track can be found [here](CISO Track - BSidesLV 2019.pdf)
