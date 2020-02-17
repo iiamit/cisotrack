@@ -4,19 +4,24 @@ The modern security executive needs to handle a complex world of technology, pol
 
 **The CISO Track** aims to provide our participants with a closed-door environment where sharing information and practices around a select number of topics is done properly. This isn’t about some vendor pitch, nor is it about sitting and having someone talk at you for 45 minutes. It is about a discussion between peers, curated by peers, around topics presented briefly (10-15 minutes) by vetted industry practitioners. What’s a vetted industry practitioner? They’re speakers who have agreed not to pitch or sell products, and their presentation has been reviewed and pre-approved by the program committee.
 
-## RSA Conference 2020
+## Upcoming Events
+### RSA Conference 2020
 We plan to hold the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from Cloudflare, we will hold the track at their offices during the day.
 
 ~~Applications for registration is [available here](https://forms.gle/kc1uNB8Y8N7KRkL78). Please note that all fields are mandatory (including agreeing to the track terms, privacy statement, participation through the day, minimal donation, and Chatham House Rule). Note that participation is capped at 50, and we cannot guarantee that all applications will be accepted. As such, registration will be closed once we have secured registration for the track.~~
 Applications are currently closed - in the event that accepted applicants fail to register in time, we will re-open the application to fill in their seats.
 
-### Topics ###
-Based on the participant voting, the topics covered will include:
+#### Topics ####
+Based on the participant feedback, the topics covered will include:
 + DevOps Security
 + Board Communication
 + Incident and Crisis Management
 + Supply Chain Risk Management
 + SIEM
+
+### CyberWeek 2020
+We are excited to have been invited to bring The CISO Track to its first international event that will be held during CyberWeek 2020 in Tel Aviv, Israel. The event will take place during one of the main planery days and will allow participants an opportunity to access other activities during the week (from the Startup Day, through Team8's CISO Delegation, to BSidesTLV) in order to maximize the value of their trip to Tel Aviv.
+Application for registration will upen up soon, followed by sponsorship opportunities based on the topics selected.
 
 ## Details
 
@@ -34,6 +39,12 @@ Participants are expected to be highly engaged and contribute to the discussions
 
 Vendor participation is limited to presenting the session topic, and vendors will have no access to any participant list and are restricted from pitching or following-up with participants. The entire day will have a curator who will take notes to produce anonymized proceedings from the track which would focus on the content discussed, and publish the vetted proceedings after the conference.
 
+## Sponsorship
+Sponsoring The CISO Track is unlike most corporate sponsorship opportunities at events. We provide our sponsors a simple model - they get to send a vetter SME to present the problem domain in which they operate (for 10-15 minutes), and then listen in to the discussion between the CISO/CSO participats. This unique model allows companies with a unique opportunity to set the main talking points and then gain access to data that's rarely available even through "industry analysits". SMEs are highly encouraged to engage directly with participants in the beginning of the session (less slides, more direct interaction), and are not allowed to pitch products/solutions, present marketing/sales materials, or approach participants for sales purposes after their session.
+Sponsorship is available based on the problem domains chosen for each event.
+For sponsorship information, statistics, and previous sponsor's feedback please contact us.
+
+## Past Events
 ### BSidesLV 2019
 The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
 The proceedings for the track can be found [here](CISO%20Track%20-%20BSidesLV%202019.pdf).
