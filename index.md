@@ -20,7 +20,7 @@ Based on the participant feedback, the topics covered will include:
 + SIEM
 
 ### CyberWeek 2020
-We are excited to have been invited to bring The CISO Track to its first international event that will be held during CyberWeek 2020 in Tel Aviv, Israel. The event will take place during one of the main planery days and will allow participants an opportunity to access other activities during the week (from the Startup Day, through Team8's CISO Delegation, to BSidesTLV) in order to maximize the value of their trip to Tel Aviv.
+We are excited to have been invited to bring The CISO Track to its first international event that will be held during CyberWeek 2020 on June 30th in Tel Aviv, Israel. The event will take place during the second main planery day and will allow participants an opportunity to access other activities during the week (from the [Startup Day](https://cyberweek.tau.ac.il/2020/Events/Startup-Day), through [Team8's CISO Delegation](https://www.rethinkcyber.com), to [BSidesTLV](https://bsidestlv.com/)) in order to maximize the value of their trip to Tel Aviv.
 Application for registration is [now open here](cw2020application), followed by sponsorship opportunities based on the topics selected.
 
 ## Details
