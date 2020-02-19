@@ -8,8 +8,7 @@ The modern security executive needs to handle a complex world of technology, pol
 ### RSA Conference 2020
 We plan to hold the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from Cloudflare, we will hold the track at their offices during the day.
 
-~~Applications for registration is [available here](https://forms.gle/kc1uNB8Y8N7KRkL78). Please note that all fields are mandatory (including agreeing to the track terms, privacy statement, participation through the day, minimal donation, and Chatham House Rule). Note that participation is capped at 50, and we cannot guarantee that all applications will be accepted. As such, registration will be closed once we have secured registration for the track.~~
-Applications are currently closed - in the event that accepted applicants fail to register in time, we will re-open the application to fill in their seats.
+Applications are closed, and we are fully registered.
 
 #### Topics ####
 Based on the participant feedback, the topics covered will include:
