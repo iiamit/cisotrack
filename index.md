@@ -49,4 +49,4 @@ The event proceedings will be published here soon.
 
 ### BSidesLV 2019
 The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
-The proceedings for the track can be found [here](CISO%20Track%20-%20BSidesLV%202019.pdf).
+The proceedings for the track can be found [here](docs/CISO%20Track%20-%20BSidesLV%202019.pdf).
