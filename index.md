@@ -5,21 +5,9 @@ The modern security executive needs to handle a complex world of technology, pol
 **The CISO Track** aims to provide our participants with a closed-door environment where sharing information and practices around a select number of topics is done properly. This isn’t about some vendor pitch, nor is it about sitting and having someone talk at you for 45 minutes. It is about a discussion between peers, curated by peers, around topics presented briefly (10-15 minutes) by vetted industry practitioners. What’s a vetted industry practitioner? They’re speakers who have agreed not to pitch or sell products, and their presentation has been reviewed and pre-approved by the program committee.
 
 ## Upcoming Events
-### RSA Conference 2020
-We plan to hold the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from Cloudflare, we will hold the track at their offices during the day.
-
-Applications are closed, and we are fully registered.
-
-#### Topics ####
-Based on the participant feedback, the topics covered will include:
-+ DevOps Security
-+ Board Communication
-+ Incident and Crisis Management
-+ Supply Chain Risk Management
-+ SIEM
-
 ### CyberWeek 2020
-We are excited to have been invited to bring The CISO Track to its first international event that will be held during CyberWeek 2020 on June 30th in Tel Aviv, Israel. The event will take place during the second main planery day and will allow participants an opportunity to access other activities during the week (from the [Startup Day](https://cyberweek.tau.ac.il/2020/Events/Startup-Day), through [Team8's CISO Delegation](https://www.rethinkcyber.com), to [BSidesTLV](https://bsidestlv.com/)) in order to maximize the value of their trip to Tel Aviv.
+We are excited to have been invited to bring The CISO Track to its first international event that will be held during CyberWeek 2020 on June 30th in Tel Aviv, Israel. 
+Check out the [main event page](cw2020).
 Application for registration is [now open here](cw2020application), followed by sponsorship opportunities based on the topics selected.
 
 ## Details
@@ -44,6 +32,21 @@ Sponsorship is available based on the problem domains chosen for each event.
 For sponsorship information, statistics, and previous sponsor's feedback please contact us.
 
 ## Past Events
+### RSA Conference 2020
+We plan to hold the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from Cloudflare, we will hold the track at their offices during the day.
+
+Applications are closed, and we are fully registered.
+
+#### Topics ####
+Based on the participant feedback, the topics covered will include:
++ DevOps Security
++ Board Communication
++ Incident and Crisis Management
++ Supply Chain Risk Management
++ SIEM
+
+The event proceedings will be published here soon.
+
 ### BSidesLV 2019
 The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
 The proceedings for the track can be found [here](CISO%20Track%20-%20BSidesLV%202019.pdf).
