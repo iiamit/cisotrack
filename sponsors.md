@@ -1,4 +1,4 @@
-## Sponsorship the CISO Track
+## Sponsors
 
 Sponsoring at the CISO Track provides you with first-hand feedback from executive leaders (CISO/CSO) for the problem your company is working to solve. It is held in a closed-door format, under the Chatham House rule (no attribution of quotes to individuals or their organization).
 Sponsors get to send a subject matter expert (SME) to start the session off in a 10 minute opening. Following this, the core of the session commences, which is a peer-discussion between the participants and is moderated by our track chairs. The SME is not part of the discussion, unless asked specifically by participants to do so.
