@@ -6,9 +6,9 @@ The modern security executive needs to handle a complex world of technology, pol
 
 ## Upcoming Events
 ### CyberWeek 2020
-We are excited to have been invited to bring The CISO Track to its first international event that will be held during CyberWeek 2020 on June 30th in Tel Aviv, Israel. 
-Check out the [main event page](cw2020).
-Application for registration is [now open here](cw2020application), followed by sponsorship opportunities based on the topics selected.
+Unfortunately, CyberWeek 2020 has been cancelled, and as such The CISO Track will not be held there. 
+
+We will update on our regional event schedule in 2020 once the global pandemic situation clears up and allows us to hold our events safely.
 
 ## Details
 
