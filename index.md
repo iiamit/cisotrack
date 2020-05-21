@@ -39,10 +39,10 @@ We held the second CISO Track during RSA Conference in February 25th, 2020. Than
 The following sessions were held, where available the proceedings are linked:
 + SIEM
 + DevOps Security
-+ [Supply Chain Risk Management][docs/CISOTrackRSA2020-3-SupplyChainRiskManagement.pdf]
-+ [Incident and Crisis Management][docs/CISOTrackRSA2020-4-IncidentCrisisManagement.pdf]
-+ [Board Communication][docs/CISOTrackRSA2020-5-BoardCommunications.pdf]
-+ [UnConference][docs/CISOTrackRSA2020-6-UnconferenceClosing.pdf]
++ [Supply Chain Risk Management](docs/CISOTrackRSA2020-3-SupplyChainRiskManagement.pdf)
++ [Incident and Crisis Management](docs/CISOTrackRSA2020-4-IncidentCrisisManagement.pdf)
++ [Board Communication](docs/CISOTrackRSA2020-5-BoardCommunications.pdf)
++ [UnConference](docs/CISOTrackRSA2020-6-UnconferenceClosing.pdf)
 
 ### BSidesLV 2019
 The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
