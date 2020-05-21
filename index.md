@@ -33,19 +33,16 @@ For sponsorship information, statistics, and previous sponsor's feedback please 
 
 ## Past Events
 ### RSA Conference 2020
-We plan to hold the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from Cloudflare, we will hold the track at their offices during the day.
-
-Applications are closed, and we are fully registered.
+We held the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from Cloudflare, we hosted the track at their offices.
 
 #### Topics ####
-Based on the participant feedback, the topics covered will include:
-+ DevOps Security
-+ Board Communication
-+ Incident and Crisis Management
-+ Supply Chain Risk Management
+The following sessions were held, where available the proceedings are linked:
 + SIEM
-
-The event proceedings will be published here soon.
++ DevOps Security
++ [Supply Chain Risk Management][docs/CISOTrackRSA2020-3-SupplyChainRiskManagement.pdf]
++ [Incident and Crisis Management][docs/CISOTrackRSA2020-4-IncidentCrisisManagement.pdf]
++ [Board Communication][docs/CISOTrackRSA2020-5-BoardCommunications.pdf]
++ [UnConference][docs/CISOTrackRSA2020-6-UnconferenceClosing.pdf]
 
 ### BSidesLV 2019
 The CISO track has been created in 2019 and was initially run as part of [BSides Las Vegas](https://www.bsideslv.org/ciso-track/).
