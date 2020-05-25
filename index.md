@@ -9,6 +9,7 @@ We are starting to test out the concept of regional events. In the current globa
 Based on these, we are going to test out our Regional CE events and roll out additional ones 
 
 > Q: What is this "CE" event going to look like? 
+>
 > A: Good question! The concept and nature of the CISO Track stays the same. However, to accommodate social distancing and other gathering limitations, CE events will be limited to 25 participants. Food will be available in a "boxed" version. From an SME perspective - we will allow the SME to participate through Zoom (as we understand that SMEs are limited and typically bound to a particular geography) - but the same format applies - 10-15 minutes of the SME presenting the problem domain and bringing up proposed discussion topics, followed by 40 minutes of peer discussion moderated by the CISO Track staff.
 
 ### TLV Regional CE
