@@ -5,10 +5,17 @@ The modern security executive needs to handle a complex world of technology, pol
 **The CISO Track** aims to provide our participants with a closed-door environment where sharing information and practices around a select number of topics is done properly. This isn’t about some vendor pitch, nor is it about sitting and having someone talk at you for 45 minutes. It is about a discussion between peers, curated by peers, around topics presented briefly (10-15 minutes) by vetted industry practitioners. What’s a vetted industry practitioner? They’re speakers who have agreed not to pitch or sell products, and their presentation has been reviewed and pre-approved by the program committee.
 
 ## Upcoming Events
-### CyberWeek 2020
-Unfortunately, CyberWeek 2020 has been cancelled, and as such The CISO Track will not be held there. 
+We are starting to test out the concept of regional events. In the current global landscape, we believe that the need for collaboration and sharing between CISOs not only remains, but is actually heightened. Additionally, SMEs and sponsors are vying for additional ways to listen to their customer base and in light of most conferences canceling their onsite events, are asking us for ways to participate.
+Based on these, we are going to test out our Regional CE events and roll out additional ones 
 
-We will update on our regional event schedule in 2020 once the global pandemic situation clears up and allows us to hold our events safely.
+> Q: What is this "CE" event going to look like? 
+> A: Good question! The concept and nature of the CISO Track stays the same. However, to accommodate social distancing and other gathering limitations, CE events will be limited to 25 participants. Food will be available in a "boxed" version. From an SME perspective - we will allow the SME to participate through Zoom (as we understand that SMEs are limited and typically bound to a particular geography) - but the same format applies - 10-15 minutes of the SME presenting the problem domain and bringing up proposed discussion topics, followed by 40 minutes of peer discussion moderated by the CISO Track staff.
+
+### TLV Regional CE
+We are aiming to hold a regional CE (CoronaEdition) event in Tel Aviv during the last week of June 2020 (originally planned for CyberWeek). Additional details will be available soon. Reach out to us for more information, propose an SME session, or donate a space to hold the event at.
+
+### DEN Regional CE
+We are working on a schedule for the Denver, CO CE event, but plan to hold it in July 2020 - right after the TLV event.
 
 ## Details
 
