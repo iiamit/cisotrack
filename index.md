@@ -40,6 +40,10 @@ Sponsorship is available based on the problem domains chosen for each event.
 For sponsorship information, statistics, and previous sponsor's feedback please [check out our sponsors page](sponsors).
 
 ## Past Events
+### TLV Regional CE 2020
+We held a regional event in Tel Aviv on June 30th.
+The proceedings for the event can be found [here](docs/CISOTrackTLV2020.pdf).
+
 ### RSA Conference 2020
 We held the second CISO Track during RSA Conference in February 25th, 2020. Thanks to the support from Cloudflare, we hosted the track at their offices.
 
