@@ -1,0 +1,123 @@
+/* Accent orange #C54C00 */
+
+body {
+    background-color: #e6eeea;
+}
+
+.main {
+    max-width: 1015px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 66% 34%;
+}
+h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 40px;
+    line-height: 120%;
+    text-align: left;
+    color: #C54C00;
+}
+h2 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 30px;
+    line-height: 120%;
+    text-align: left;
+    color: #000;
+}
+h3 {
+    font-family: 'Red Hat Text', sans-serif;
+    font-size: 22px;
+    line-height: 140%;
+    text-align: left;
+    color: #000;
+}
+.fancy {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-size: 48px;
+    line-height: 120%;
+    font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
+p {
+    font-family: 'Zilla Slab', sans-serif;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: left;
+    color: #000000;
+}
+p.bigger {
+    font-size: 24px;
+    line-height:180%;
+}
+a {
+    color: #C54C00;
+}
+strong {
+    font-family: 'Red Hat Text', sans-serif;
+}
+.logo, .logo_square {
+    background-color: #000;
+}
+p.slogan {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: left;
+    background-color: #C54C00;
+    color:#fff;
+    margin: 0;
+
+    padding-top: 40px;
+    padding-bottom: 0px;
+    padding-left: 32px;
+    padding-right: 20px;
+}
+.content {
+    padding-top: 24px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 32px;
+    font-family: 'Zilla Slab', serif;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: left;
+    color: #000;
+    background-color: #fff;
+    margin: 0;
+}
+nav {
+    padding-top: 10px;
+    padding-right: 32px;
+    padding-bottom: 0px;
+    padding-left: 32px;
+    font-family: 'Zilla Slab', sans-serif;
+    font-size: 24px;
+    line-height: 180%;
+    text-align: left;
+    color: #000;
+    margin: 0;
+    background-color: #cbddd6;
+}
+hr.divider {
+    height: 30px;
+    background-color: #C54C00;
+    width: 100%;
+    margin: 0;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    border: none;
+}
+footer {
+    background-color: #cbddd6;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 32px;
+    font-family: 'Zilla Slab', sans-serif;
+    font-size: 17px;
+    line-height: 160%;
+    text-align: left;
+    color: #000000;
+}
