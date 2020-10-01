@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: The CISO Track
 slogan: The only gathering of CISOs in an exclusive setting
 encoding: utf-8
-source: docs
 show_downloads: false
 github:
   is_project_page: false
