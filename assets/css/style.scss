@@ -5,8 +5,8 @@
 .page-header {
     color: #fff;
     text-align: center;
-    background-color:#23553c;
-    background-image: url(/CTlogo.png);
+    background-color:#000000;
+    background-image: url(/TheCISOTrack_logo_RGB_rev_solid_wide.svg);
     background-size: 300px;
     background-repeat: no-repeat;
     background-position-x: center;
@@ -17,4 +17,10 @@
     font-weight: normal;
     opacity: 0.7;
     visibility: hidden;
+}
+.project-name {
+    visibility: hidden;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #c54c00;
 }
